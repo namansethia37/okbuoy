@@ -1,0 +1,5 @@
+Linstor is an open source storage management solution that provides a centralized and
+scalable way to manage storage resources across multiple servers. It allows for the
+creation and management of storage volumes, which can then be easily attached and
+detached from servers, making storage management efficient and flexible. Linstor is
+designed to work with
